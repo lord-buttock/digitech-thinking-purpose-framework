@@ -144,13 +144,19 @@ To invoke a skill, ask Claude: *"Use the `backwards-design-unit-planner` skill t
 
 ---
 
+## Curriculum copyright
+
+Victorian Curriculum F–10 content in `curriculum/` is © VCAA, licensed under **Creative Commons Attribution-NonCommercial 3.0 Australia (CC-BY-NC 3.0)**. It is reproduced here for non-commercial educational use with attribution, in compliance with licence terms. Source: [victoriancurriculum.vcaa.vic.edu.au](https://victoriancurriculum.vcaa.vic.edu.au)
+
+This licence covers all VCAA Victorian Curriculum learning areas (English, Mathematics, Digital Technologies, Science, Humanities, etc.). It does **not** cover DET-authored support materials, which are © State of Victoria and excluded from this repository.
+
 ## What is not in this repository
 
 - Student names, individual student data, or learning profiles
 - Parent contact records
 - Semester reporting notes
-- PDFs from the Victorian Department of Education (DET copyright)
-- The full Victorian Curriculum VC2 data files (use the official [Victorian Curriculum website](https://victoriancurriculum.vcaa.vic.edu.au/) or Phill's local Obsidian vault)
+- PDFs or support materials authored by the Victorian Department of Education (DET copyright — © State of Victoria, all rights reserved)
+- ACARA Australian Curriculum documents (separate copyright — see [ACARA terms of use](https://www.acara.edu.au/contact-us/copyright))
 
 ---
 
